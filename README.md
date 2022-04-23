@@ -1,2 +1,2 @@
 # Article.EikonAPI.Python.IndexRatioAnalysis
-Forward Looking Index Ration Analysis
+Forward Looking Index Ratio Analysis
