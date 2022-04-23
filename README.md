@@ -1,7 +1,7 @@
 # Forward Looking Index Ratio Analysis
 Investment bankers, strategists, and analysts frequently need to pull historical forward valuation ratios for indices, including EV multiples that don't exist in our IBES aggregates data sets. Using CodeBook and Python, winners of the Americas Hackathon, the **GBC Angels** were able to overcome the limitations of Excel to create aggregates based on underlying constituents, thus addressing key performance, methodology and use of historical constituents challenges. Their collaboration on creating a scalable solution underscores how workflow knowledge + a little code can create value to meet customer needs.
 
-Refer to the [Forward Looking Index Ratio Analysis]() defined within the Refinitiv Developer Community for more details.
+Refer to the [Forward Looking Index Ratio Analysis]() article defined within the Refinitiv Developer Community for more details.
 
 ## <a id="disclaimer"></a>Disclaimer
 
