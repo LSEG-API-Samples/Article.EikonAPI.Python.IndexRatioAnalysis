@@ -15,7 +15,7 @@ To execute any workbook, refer to the following:
 
 License(s):
 
-- A Refinitiv desktop license (Refinitiv Eikon or Refinitiv Workspace) that has API access and your data license variant must include access to IPA (Instrument Pricing Analytics)
+- A Refinitiv desktop license (Refinitiv Eikon or Refinitiv Workspace) that has API access.  For indices, a direct license with the index provider may be required to pull constituents' data
 
 
 [Development Environment](https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api/tutorials#setting-up-a-python-development-environment)
