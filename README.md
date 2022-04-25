@@ -11,7 +11,7 @@ The source code presented in this project has been written by Refinitiv only fo
 
 ## <a name="prerequisites"></a>Prerequisites
 
-To execute any workbook, refer to the following:
+To execute the workbook, refer to the following:
 
 License(s):
 
